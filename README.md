@@ -25,16 +25,7 @@
 ![image](https://github.com/user-attachments/assets/e1bb92ca-178f-4b1e-893e-ec27e3745172)
 
 
-## Architecture of Adder Top Module 
-![image](https://github.com/user-attachments/assets/b66a6f13-eb4d-4e8e-9eb7-8940c7f207f2)
-
-
-## Architecture of 4-bit Multiplier Module
-![image](https://github.com/user-attachments/assets/29fb2c3a-e034-4dd3-9fb2-5006716b578d)
-
-
-## Architecture of 4-bit Divider Module
-![image](https://github.com/user-attachments/assets/d93c8220-68a7-4824-88bd-87da89ed3829)
+## You Can See all the other architectures from the Documentation
 
 
 ## Contact
